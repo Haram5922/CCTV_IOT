@@ -45,9 +45,9 @@ public class record_screen extends AppCompatActivity {
 
     public static TextView view33;
 
-    public static final String FTP_URL = "112.175.184.76";
-    public static final String FTP_ID = "okokok5922";
-    public static final String FTP_PW = "rlagkfka5922!";
+    public static final String FTP_URL = "              ";
+    public static final String FTP_ID = "               ";
+    public static final String FTP_PW = "               ";
     public static final String FileName = "index.html";
     public static File DIR = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS);
     private final String TAG = "ss";
